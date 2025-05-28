@@ -1,5 +1,5 @@
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20C%2C%20VHDL%2C%20PHP-blue)
 ![Student](https://img.shields.io/badge/Status-Étudiant%20ESEO-lightgrey)
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20C%2C%20VHDL%2C%20PHP-blue)
 ![Open to Work](https://img.shields.io/badge/Open%20To-Stages%20et%20Projets-green)
 
 # Bienvenue sur mon GitHub
