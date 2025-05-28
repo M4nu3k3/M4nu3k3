@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4nu3k3&show_icons=true&theme=default&hide_title=true" />
-</p>
-
-
 # Bienvenue sur mon GitHub
 
 Je suis étudiant à l’ESEO, spécialisé en informatique et électronique.  
@@ -62,3 +57,8 @@ J’ai contribué à la modélisation pédagogique d’un scénario basé sur la
 
 [LinkedIn](https://www.linkedin.com/in/ton-profil)  
 [Email](mailto:ton.email@domain.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4nu3k3&show_icons=true&theme=default&hide_title=true" />
+</p>
+
