@@ -13,8 +13,7 @@ Je cherche surtout à progresser en développement et à comprendre comment cons
 Réalisation d’un jeu type Tetris en Java avec architecture MVC.  
 Projet en développement, avec gestion des pièces, rendu graphique, interactions clavier et souris. Objectif : produire un jeu propre, évolutif et bien structuré.
 
-### GTO (C)
-https://github.com/M4nu3k3/GTO
+### GTO (C) https://github.com/M4nu3k3/GTO
 Projet réalisé dans le cadre du programme DEEP à l’ESEO.  
 Développement d’un mini système logiciel embarqué en C. Gestion mémoire, structures de données, et interaction avec le matériel.
 
