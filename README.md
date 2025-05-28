@@ -1,7 +1,13 @@
 <h1 align="center">Salut, moi c'est Manu 👋</h1>
 <p align="center">
 Étudiant à l’ESEO | Développement logiciel & systèmes embarqués
-![hourglass-demo](images/hourglass_demo.gif)  
+  
+## Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4nu3k3&show_icons=true&theme=default&hide_title=true" />
+</p>
+
 ![Student](https://img.shields.io/badge/Status-Étudiant%20ESEO-blue)
 ![Langages](https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey)
 
