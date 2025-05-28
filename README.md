@@ -3,9 +3,13 @@
 Étudiant à l’ESEO | Développement logiciel & systèmes embarqués
 
 <p align="center">
-  ![Langages](https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey)
+  <img src="https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M4nu3k3&show_icons=true&theme=default&hide_title=true" />
 </p>
+
 
 # Bienvenue sur mon GitHub
 
