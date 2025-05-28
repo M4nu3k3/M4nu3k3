@@ -11,7 +11,7 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 
 ## Projets en cours
 
-### Tetris (https://img.shields.io/badge/Langage-Java-lightgrey)
+### Tetris ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
 Jeu de type Tetris codé en Java avec une architecture MVC. En développement, avec gestion des pièces, affichage graphique et contrôles clavier/souris.
 
 ### [GTO (C)](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
