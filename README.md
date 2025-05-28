@@ -41,8 +41,8 @@ Projet en VHDL sur carte Basys 3 : saisie de code Morse via bouton poussoir, dé
 ## Contributions externes
 
 ### HIVE – Datathon IA4CARE2025  
-Participation au datathon IA4CARE2025 sur un scénario de simulation NRBC.  
-J’ai contribué à la modélisation pédagogique d’un scénario basé sur la préparation et l’administration des antidotes, en suivant les recommandations de la SoFraSimS.  
+Participation au datathon IA4CARE2025 sur un scénario de simulation.
+J’ai contribué à la modélisation pédagogique d’un scénario basé sur la préparation et l’administration des antidotes, en suivant des recommandations.
 [→ Voir le projet](https://github.com/LucasMorize/HIVE)
 
 ---
