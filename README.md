@@ -1,17 +1,9 @@
 <h1 align="center">Salut, moi c'est Manu 👋</h1>
 <p align="center">
 Étudiant à l’ESEO | Développement logiciel & systèmes embarqués
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Statut-%C3%89tudiant%20ESEO-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Langages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Stages%20%2F%20Projets-green?style=flat-square" />
-</p>
-
 
 ![Student](https://img.shields.io/badge/Status-Étudiant%20ESEO-blue)
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey)
+![Langages](https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey)
 
 # Bienvenue sur mon GitHub
 
