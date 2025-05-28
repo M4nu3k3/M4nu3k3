@@ -37,6 +37,7 @@ Bot Discord pour jouer aux échecs contre un autre joueur ou une IA, avec deux n
 
 ### Décodeur Morse (VHDL / FPGA)  
 Projet en VHDL sur carte Basys 3 : saisie de code Morse via bouton poussoir, décodage et affichage sur 4 afficheurs 7 segments.
+
 ---
 
 ## Contributions externes
