@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Langages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
-  <img src="https://img.shields.io/badge/Logiciels-VisualStudioCode%2C%20PhpStorm%20IDEA%2C%20IntelliJ%2C%20CLion%2C%20MySQL%20Workbench-lightgrey" />
+  <img src="https://img.shields.io/badge/Logiciels-Visual%20Studio%20Code%2C%20PhpStorm%20IDEA%2C%20IntelliJ%2C%20CLion%2C%20MySQL%20Workbench-lightgrey" />
 </p>
  
 Sur ce profil, je partage des projets réalisés dans le cadre de ma formation ou pour approfondir certaines compétences techniques.  
