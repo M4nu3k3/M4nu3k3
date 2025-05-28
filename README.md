@@ -5,10 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
 </p>
-
-Je suis étudiant à l’ESEO, spécialisé en informatique et électronique.  
+ 
 Sur ce profil, je partage des projets réalisés dans le cadre de ma formation ou pour approfondir certaines compétences techniques.  
-Je m'intéresse particulièrement aux systèmes embarqués, aux architectures logicielles claires, et aux projets concrets que je peux construire de bout en bout.
 
 ## Projets en cours
 
