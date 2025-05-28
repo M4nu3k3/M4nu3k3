@@ -3,7 +3,7 @@
 Étudiant à l’ESEO | Développement logiciel & systèmes embarqués
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-grey" />
+  <img src="https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
   <img src="https://img.shields.io/badge/Logiciels-VisualStudioCode%2C%20PhpStorm%20IDEA%2C%20IntelliJ%2C%20CLion%2C%20MySQL%20Workbench-lightgrey" />
 </p>
  
