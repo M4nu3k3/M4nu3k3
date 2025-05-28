@@ -4,12 +4,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Langages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey" />
-  <img src="https://img.shields.io/badge/Logiciels-Visual%20Studio%20Code%2C%20PhpStorm%20IDEA%2C%20IntelliJ%2C%20CLion%2C%20MySQL%20Workbench-lightgrey" />
+  <img src="https://img.shields.io/badge/Logiciels-Visual%20Studio%20Code%2C%20PhpStorm%20IDEA%2C%20IntelliJ%2C%20CLion%2C%20MySQL%20Workbench-lightblue" />
 </p>
  
 Sur ce profil, je partage des projets réalisés dans le cadre de ma formation ou pour approfondir certaines compétences techniques.  
 
-## Projets en cours
+## Projets en cours (2)
 
 ### Tetris ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
 Jeu de type Tetris codé en Java avec une architecture MVC. En développement, avec gestion des pièces, affichage graphique et contrôles clavier/souris.
@@ -19,7 +19,7 @@ Système logiciel minimaliste en C, axé sur la gestion mémoire et la structura
 
 ---
 
-## Projets terminés
+## Projets terminés (4)
 
 ### [Hourglass (C++)](https://github.com/M4nu3k3/Hourglass) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
 Sablier électronique basé sur Arduino avec matrices LED, accéléromètre et encodeur rotatif pour réglage du temps.  
@@ -35,7 +35,7 @@ Projet en VHDL sur carte Basys 3 : saisie de code Morse via bouton poussoir, dé
 
 ---
 
-## Contributions externes
+## Contribution externe (1)
 
 ### [HIVE](https://github.com/LucasMorize/HIVE)
 Participation au datathon IA4CARE2025 sur un scénario de simulation.
