@@ -14,7 +14,7 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 ### Tetris (Java)  
 Jeu de type Tetris codé en Java avec une architecture MVC. En développement, avec gestion des pièces, affichage graphique et contrôles clavier/souris.
 
-### GTO (C)  [→ Voir le projet](https://github.com/M4nu3k3/GTO)
+### [GTO (C)](https://github.com/M4nu3k3/GTO)
 Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image
 
 
