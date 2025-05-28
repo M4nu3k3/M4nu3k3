@@ -16,7 +16,7 @@ Je m'intéresse particulièrement aux systèmes embarqués, aux architectures lo
 Jeu de type Tetris codé en Java avec une architecture MVC. En développement, avec gestion des pièces, affichage graphique et contrôles clavier/souris.
 
 ### GTO (C)  
-Projet embarqué réalisé dans le cadre du programme DEEP. Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données.  
+Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image
 [→ Voir le projet](https://github.com/M4nu3k3/GTO)
 
 ---
