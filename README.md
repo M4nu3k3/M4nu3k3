@@ -36,9 +36,10 @@ Affichage, recherche, ajout/modification/suppression d’unités avec moteur de 
 https://github.com/M4nu3k3/TFTProject
 
 ### Chess (Python)
-https://github.com/ISkyCraftI/Chess
 Bot Discord jouable permettant des parties d’échecs entre utilisateurs ou contre une IA.  
 Gestion des règles, moteur de jeu, sauvegarde en base SQL, interactions textuelles. Deux niveaux d’IA : random et algo (type MinMax). Réalisé en équipe.
+
+https://github.com/ISkyCraftI/Chess
 
 ### Décodeur Morse (VHDL / FPGA)
 Projet réalisé sur carte Basys 3 avec Vivado.  
