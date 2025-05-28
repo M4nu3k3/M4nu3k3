@@ -1,3 +1,8 @@
+<h1 align="center">Salut, moi c'est Manu 👋</h1>
+<p align="center">
+Étudiant à l’ESEO | Développement logiciel & systèmes embarqués
+</p>
+
 ![Student](https://img.shields.io/badge/Status-Étudiant%20ESEO-blue)
 ![Languages](https://img.shields.io/badge/Languages-Python%2C%20PHP%2C%20Java%2C%20C%2C%20VHDL-lightgrey)
 
