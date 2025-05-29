@@ -11,20 +11,20 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 
 ## Projets en cours (2)
 
-### [FallingBlox (Java)]([https://github.com/M4nu3k3/GTO](https://github.com/M4nu3k3/FallingBlox)) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
+### [FallingBlox]([https://github.com/M4nu3k3/GTO](https://github.com/M4nu3k3/FallingBlox)) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
 Jeu de type Tetris codé en Java avec une architecture MVC. En développement, avec gestion des pièces, affichage graphique et contrôles clavier/souris.
 
-### [GTO (C)](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
+### [GTO](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langage-C%2%20Python-lightgrey)
 Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image
 
 ---
 
 ## Projets terminés (4)
 
-### [Hourglass (C++)](https://github.com/M4nu3k3/Hourglass) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
+### [Hourglass](https://github.com/M4nu3k3/Hourglass) ![Langage](https://img.shields.io/badge/Langage-C++-lightgrey)
 Sablier électronique basé sur Arduino avec matrices LED, accéléromètre et encodeur rotatif pour réglage du temps.  
 
-### [TFTProject (PHP)](https://github.com/M4nu3k3/TFTProject) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
+### [TFTProject](https://github.com/M4nu3k3/TFTProject) ![Langage](https://img.shields.io/badge/Langage-PHP-lightgrey)
 Application web en PHP (architecture MVC) permettant de gérer une base d’unités inspirées de TFT via une interface CRUD.  
 
 ### [Chess](https://github.com/lSkyCraftl/Chess) ![Langage](https://img.shields.io/badge/Langage-Python-lightgrey)
