@@ -13,7 +13,7 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 
 ---
 
-## Projets terminés (4)
+## Projets terminés (6)
 
 
 ### [FallingBlox](https://github.com/M4nu3k3/FallingBlox) ![Langage](https://img.shields.io/badge/Langage-Java-lightgrey)
