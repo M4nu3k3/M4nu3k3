@@ -17,7 +17,7 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 
 Embarqués :
 
-### [GTO](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langages-C%2C%20Python-lightgrey)
+#### [GTO](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langages-C%2C%20Python-lightgrey)
 Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image
 
 ### [Hourglass](https://github.com/M4nu3k3/Hourglass) ![Langage](https://img.shields.io/badge/Langage-C++-lightgrey)
