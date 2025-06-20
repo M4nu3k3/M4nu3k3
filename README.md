@@ -11,7 +11,7 @@ Sur ce profil, je partage des projets réalisés dans le cadre de ma formation o
 
 ## Projets en cours (1)
 
-#### Data Science - Analyse climatique régionale (2000–2023) ![Langages](https://img.shields.io/badge/Langages-Python-lightgrey)
+#### Data Science - Analyse climatique régionale (2000–2023) ![Langage](https://img.shields.io/badge/Langages-Python-lightgrey)
 
 Analyse de données climatiques régionales en Python avec PCA, KMeans, Classification, Cluster, Régression Linéaire et visualisations (Météo-France).
 
