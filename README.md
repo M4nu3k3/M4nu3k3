@@ -57,7 +57,7 @@ J’ai contribué à la modélisation pédagogique d’un scénario basé sur la
 
 ## Me contacter
 
-[LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/emmanuel-bruchard-49499821a/))  
+[LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/emmanuel-bruchard-49499821a/)) : https://www.linkedin.com/in/emmanuel-bruchard-49499821a/  
 [Email](mailto:emmanuel.bruchard@reseau.eseo.fr)
 
 <p align="center">
