@@ -24,7 +24,7 @@ Analyse de données climatiques régionales en Python avec PCA, KMeans, Classifi
 ### Embarqués :
 
 #### [GTO](https://github.com/M4nu3k3/GTO) ![Langage](https://img.shields.io/badge/Langages-C%2C%20Python-lightgrey)
-Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image
+Système logiciel minimaliste en C, axé sur la gestion mémoire et la structuration de données. Corrections de QCMs à l'aide de traitement de l'image.
 
 #### [Hourglass](https://github.com/M4nu3k3/Hourglass) ![Langage](https://img.shields.io/badge/Langage-C++-lightgrey)
 Sablier électronique basé sur Arduino avec matrices LED, accéléromètre et encodeur rotatif pour réglage du temps.  
