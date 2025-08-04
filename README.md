@@ -9,17 +9,11 @@
  
 Sur ce profil, je partage des projets réalisés dans le cadre de ma formation ou pour approfondir certaines compétences techniques.  
 
-## Projets en cours (1)
-
-#### Data Science - Analyse climatique régionale (2000–2023) ![Langage](https://img.shields.io/badge/Langages-Python-lightgrey)
-
-Analyse de données climatiques régionales en Python avec PCA, KMeans, Classification, Cluster, Régression Linéaire et visualisations (Météo-France).
-
-📎 [Repo à venir prochainement]
+## Projets en cours (0)
 
 ---
 
-## Projets terminés (6)
+## Projets terminés (7)
 
 ### Embarqués :
 
@@ -46,6 +40,14 @@ Application web en PHP (architecture MVC) permettant de gérer une base d’unit
 Bot Discord pour jouer aux échecs contre un autre joueur ou une IA, avec deux niveaux de difficulté et sauvegarde des parties en SQL.
 
 ---
+
+### Autre :
+
+#### Data Science - Analyse climatique régionale (2000–2023) ![Langage](https://img.shields.io/badge/Langages-Python-lightgrey)
+
+Analyse de données climatiques régionales en Python avec PCA, KMeans, Classification, Cluster, Régression Linéaire et visualisations (Météo-France).
+
+📎 [Repo à venir prochainement]
 
 ## Contribution externe (1)
 
